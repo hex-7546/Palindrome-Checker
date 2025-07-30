@@ -1,3 +1,4 @@
+#Function which takes input
 def palindrome():
   word = input("Enter a word: ")
   reverse = word[::-1]
